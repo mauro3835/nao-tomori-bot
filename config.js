@@ -18,7 +18,7 @@ global.premium = ['5493865392125']
 global.packname = 'No-Name-Bot'
 global.author = 'By Kenisawa Dev'
 global.sessionName = 'darkbot'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','.']
 global.sp = '⭔'
 global.mess = {
     success: '𝐄𝐱𝐢𝐭𝐨 ☑️',
